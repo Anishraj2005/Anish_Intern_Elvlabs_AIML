@@ -1,0 +1,15 @@
+# Core data manipulation
+pandas==2.2.0
+numpy==1.26.3
+
+# Visualisation
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+
+# Machine learning preprocessing & stats
+scikit-learn==1.4.0
+scipy==1.12.0
+
+# Jupyter environment (optional, but helpful)
+jupyter==1.0.0
