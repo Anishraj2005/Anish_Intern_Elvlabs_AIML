@@ -113,6 +113,7 @@ All features are preprocessed: missing values imputed, categorical variables enc
 | `Output_Graphs/` | Directory containing all generated plots (`.png`). |
 | `Output_Graphs/Information of the graphs.md` | Detailed textual interpretation of each visualisation. |
 | `README.md` | This documentation. |
+| `requirements.txt` | Required Python packages. |
 
 > **Note**: The `.ipynb` may not render fully on GitHub; please download or use the PDF.
 
