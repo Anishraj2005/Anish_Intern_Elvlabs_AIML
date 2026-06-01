@@ -40,17 +40,9 @@ The dataset is stored in the `UNSW_NB15_dataset.zip` file.
 
 ### Why I Chose the UNSW-NB15 Dataset
 
-The **UNSW-NB15** dataset was selected for this task because it is a modern and realistic benchmark for network intrusion detection. Unlike older datasets such as **KDD Cup 99**, it offers several advantages:
-- **Contemporary attack families**  
-  Includes **9 modern attack types**—*Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode,* and *Worms*—alongside normal network traffic.
-- **Real network traffic**  
-  Captured using modern tools such as **tcpdump** and generated with realistic background traffic, making it more representative of real-world network environments.
-- **Rich feature set**  
-  Contains **49 features** (reduced to **45 after cleaning**) that combine flow-based, content-based, and time-based attributes, making it well suited for data preprocessing and machine learning tasks.
-- **Sufficient dataset size**  
-  Comprises **257,673 total records** (**82,332 training samples** and **175,341 testing samples**), providing enough data for meaningful machine learning experiments without being excessively large.
-- **Class imbalance**  
-  Reflects real-world cybersecurity scenarios where attack instances are less frequent than normal traffic, allowing students to explore techniques for handling imbalanced datasets during model development.
+I choose the **UNSW-NB15** dataset because I am interested in pursuing a career in **cybersecurity** and wanted to explore how **Artificial Intelligence and Machine Learning (AI/ML)** can be applied to real-world security challenges. Intrusion detection is a critical aspect of cybersecurity, and this dataset provides realistic network traffic data containing both normal and malicious activities.
+
+Through this project, I aimed to develop a better understanding of how AI/ML techniques can be used to identify cyber threats and support intelligent intrusion detection systems.
 ---
 
 ## 🔧 Step‑by‑Step Cleaning Pipeline  
@@ -180,6 +172,7 @@ Both files are included in `UNSW_NB15_cleaned.zip`.
 | `Before Capping.png` | Boxplots of numerical features **before** outlier capping. |
 | `After IQR Capping.png` | Boxplots **after** capping – extreme values compressed, rows intact. |
 | `README.md` | This documentation. |
+| `requirements.txt` | Required Python packages. |
 
 > **Note**: The `.ipynb` file may not render correctly on GitHub due to large outputs or interactive components. Please download it locally or use the included `.pdf` for reference.
 
