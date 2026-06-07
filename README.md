@@ -12,7 +12,8 @@ The goal is to understand how tree models work, visualize decision rules, contro
 - **Libraries**:  
   - `pandas`, `numpy` – data handling  
   - `matplotlib`, `seaborn` – visualisations  
-  - `scikit-learn` – train/test split, tree-based models, metrics, cross-validation, feature importance  
+  - `scikit-learn` – train/test split, tree-based models, metrics, cross-validation, feature importance
+  - `graphviz` – decision tree visualisation
 
 ---
 
