@@ -1,4 +1,4 @@
-# 🌸 AIML Internship Task 5: K-Nearest Neighbors (KNN) Classification – Iris Dataset
+# 🌸 AIML Internship Task 6: K-Nearest Neighbors (KNN) Classification – Iris Dataset
 
 ## 🎯 Objective  
 Implement the K‑Nearest Neighbors (KNN) algorithm to classify iris flowers into three species (*Setosa*, *Versicolor*, *Virginica*).  
