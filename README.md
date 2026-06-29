@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python"/>
 </p>
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5-F7931E?style=for-the-badge&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-orange?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow)
@@ -39,21 +40,21 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 
 | # | Task Title | Focus Area | Key Tools / Libraries |
 |---|------------|------------|----------------------|
-| 1 | Data Cleaning & Preprocessing | Data Wrangling, Outlier Handling | Pandas, NumPy, Scikit-learn |
-| 2 | EDA (UNSW-NB15) | Statistical Analysis, Visualisation | Matplotlib, Seaborn, Plotly |
-| 3 | Linear Regression | Regression, Overfitting Diagnosis | Scikit-learn, Seaborn |
-| 4 | Logistic Regression | Binary Classification, Threshold Tuning | Scikit-learn, ROC-AUC |
-| 5 | Tree-Based Models | Ensemble Learning, Feature Importance | Random Forest, XGBoost, GraphViz |
-| 6 | K-Nearest Neighbors | Distance-Based Classification, PCA | Scikit-learn, Matplotlib |
-| **7** | **Credit Card Fraud Detection** | **Anomaly Detection & Supervised Learning** | **Python, XGBoost, Streamlit, SHAP** |
-| **8** | **Real-Time ASL Recognition** | **Computer Vision & Gesture Classification** | **Python, MediaPipe, OpenCV, TensorFlow** |
+| 1 | [Data Cleaning & Preprocessing](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-1) | Data Wrangling, Outlier Handling | Pandas, NumPy, Scikit-learn |
+| 2 | [EDA (UNSW-NB15)](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-2) | Statistical Analysis, Visualisation | Matplotlib, Seaborn, Plotly |
+| 3 | [Linear Regression](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-3) | Regression, Overfitting Diagnosis | Scikit-learn, Seaborn |
+| 4 | [Logistic Regression](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-4) | Binary Classification, Threshold Tuning | Scikit-learn, ROC-AUC |
+| 5 | [Tree-Based Models](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-5) | Ensemble Learning, Feature Importance | Random Forest, XGBoost, GraphViz |
+| 6 | [K-Nearest Neighbors](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-6) | Distance-Based Classification, PCA | Scikit-learn, Matplotlib |
+| **7** | [**Credit Card Fraud Detection**](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Project-1-Credit-Card-Fraud-Detection) | **Anomaly Detection & Supervised Learning** | **Python, XGBoost, Streamlit, SHAP** |
+| **8** | [**Real-Time ASL Recognition**](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Project-2-Real-Time-Sign-Language-Recognition) | **Computer Vision & Gesture Classification** | **Python, MediaPipe, OpenCV, TensorFlow** |
 
 ---
 
 ## 🔎 Detailed Task Summaries
 
 ### Task 1: Data Cleaning & Preprocessing
-🔗 [View Full Task](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/main/Task-1-Data-Cleaning)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-1)
 
 **Objective:** Clean and prepare the raw UNSW-NB15 network intrusion dataset for machine learning.
 
@@ -66,7 +67,7 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 ---
 
 ### Task 2: Exploratory Data Analysis (UNSW-NB15)
-🔗 [View Full Task](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/main/Task-2-EDA)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-2)
 
 **Objective:** Perform in-depth EDA on the cleaned UNSW-NB15 data to guide modelling.
 
@@ -79,7 +80,7 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 ---
 
 ### Task 3: Linear Regression – House Price Prediction
-🔗 [View Full Task](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/main/Task-3-Linear-Regression)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-3)
 
 **Objective:** Build simple and multiple linear regression models to predict house prices (`Housing.csv`).
 
@@ -90,7 +91,7 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 ---
 
 ### Task 4: Logistic Regression – Breast Cancer Classification
-🔗 [View Full Task](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/main/Task-4-Logistic-Regression)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Evlabs_AIML/tree/Task-4)
 
 **Objective:** Classify breast tumours as malignant or benign using the Wisconsin dataset.
 
@@ -101,7 +102,7 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 ---
 
 ### Task 5: Tree-Based Models – Heart Disease Classification
-🔗 [View Full Task](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/main/Task-5-Tree-Based-Models)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-5)
 
 **Objective:** Predict heart disease using Decision Tree, Random Forest, Extra Trees, and Gradient Boosting.
 
@@ -112,7 +113,7 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 ---
 
 ### Task 6: K-Nearest Neighbors – Iris Classification
-🔗 [View Full Task](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/main/Task-6-KNN)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-6)
 
 **Objective:** Classify iris species using KNN with hyperparameter tuning and PCA visualisation.
 
