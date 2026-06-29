@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python"/>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5-F7931E?style=for-the-badge&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-orange?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow)
@@ -40,14 +39,14 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 
 | # | Task Title | Focus Area | Key Tools / Libraries |
 |---|------------|------------|----------------------|
-| 1 | [Data Cleaning & Preprocessing](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-1) | Data Wrangling, Outlier Handling | Pandas, NumPy, Scikit-learn |
-| 2 | [EDA (UNSW-NB15)](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-2) | Statistical Analysis, Visualisation | Matplotlib, Seaborn, Plotly |
-| 3 | [Linear Regression](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-3) | Regression, Overfitting Diagnosis | Scikit-learn, Seaborn |
-| 4 | [Logistic Regression](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-4) | Binary Classification, Threshold Tuning | Scikit-learn, ROC-AUC |
-| 5 | [Tree-Based Models](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-5) | Ensemble Learning, Feature Importance | Random Forest, XGBoost, GraphViz |
-| 6 | [K-Nearest Neighbors](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Task-6) | Distance-Based Classification, PCA | Scikit-learn, Matplotlib |
-| **7** | [**Credit Card Fraud Detection**](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Project-1-Credit-Card-Fraud-Detection) | **Anomaly Detection & Supervised Learning** | **Python, XGBoost, Streamlit, SHAP** |
-| **8** | [**Real-Time ASL Recognition**](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Project-2-Real-Time-Sign-Language-Recognition) | **Computer Vision & Gesture Classification** | **Python, MediaPipe, OpenCV, TensorFlow** |
+| 1 | [Data Cleaning & Preprocessing](#task-1-data-cleaning--preprocessing) | Data Wrangling, Outlier Handling | Pandas, NumPy, Scikit-learn |
+| 2 | [EDA (UNSW-NB15)](#task-2-exploratory-data-analysis-unsw-nb15) | Statistical Analysis, Visualisation | Matplotlib, Seaborn, Plotly |
+| 3 | [Linear Regression](#task-3-linear-regression--house-price-prediction) | Regression, Overfitting Diagnosis | Scikit-learn, Seaborn |
+| 4 | [Logistic Regression](#task-4-logistic-regression--breast-cancer-classification) | Binary Classification, Threshold Tuning | Scikit-learn, ROC-AUC |
+| 5 | [Tree-Based Models](#task-5-tree-based-models--heart-disease-classification) | Ensemble Learning, Feature Importance | Random Forest, XGBoost, GraphViz |
+| 6 | [K-Nearest Neighbors](#task-6-k-nearest-neighbors--iris-classification) | Distance-Based Classification, PCA | Scikit-learn, Matplotlib |
+| **7** | [**Credit Card Fraud Detection**](#project-1-credit-card-fraud-detection) | **Anomaly Detection & Supervised Learning** | **Python, XGBoost, Streamlit, SHAP** |
+| **8** | [**Real-Time ASL Recognition**](#project-2-real-time-asl-alphabet-recognition) | **Computer Vision & Gesture Classification** | **Python, MediaPipe, OpenCV, TensorFlow** |
 
 ---
 
