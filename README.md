@@ -139,7 +139,7 @@ The plot shows the characteristic S‑shape: inputs far below 0 yield probabilit
 | `train_test_split.zip` | Contains `X_train.csv`, `X_test.csv`, `y_train.csv`, `y_test.csv` for reproducibility. |
 | `Graphs/` | All generated plots: `Confusion_Matrix.png`, `ROC_Curve.png`, `Sigmoid_Function.png`, |
 |`Information_of_the_graphs.md` | Detailed information of the Graphs. `(Graphs(dir))`|
-| `README.md` | This documentation. |
+| `requirements.txt` | Required Python Packages. |
 
 > **Note**: The `.ipynb` may not render fully on GitHub; please download or use the PDF.
 
