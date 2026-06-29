@@ -162,7 +162,7 @@ Shows class separability across all feature pairs. Setosa is easily distinguishe
 | `Iris.csv` | Original dataset |
 | `knn_clasification.ipynb` | Full implementation notebook |
 | `knn_clasification.pdf` | Exported report |
-| `README.md` | Documentation |
+| `requirements.txt` | Required Python Packages. |
 | `Graphs/` | All generated plots (confusion matrix, learning curve, pair plot, etc.) |
 | `Graphs/Information_of_the_graphs.md` | Explanation of each graph |
 
