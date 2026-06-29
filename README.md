@@ -141,7 +141,7 @@ The red line shows the linear fit; the scatter reveals large residuals, confirmi
 | `Regression_model_on_house_price_prediction.pdf` | PDF export (viewable on GitHub). |
 | `train_test_split.zip` | Train/test CSV files for reproducibility. |
 | `Graphs/` | Contains all generated plots (`.png`) and `information_of_graphs.md`. |
-| `README.md` | This documentation. |
+| `requirements.txt` | Required Python Packages. |
 
 > **Note**: The `.ipynb` may not render fully on GitHub; please download or use the PDF.
 
