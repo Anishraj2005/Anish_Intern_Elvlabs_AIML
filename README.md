@@ -171,7 +171,6 @@ Both files are included in `UNSW_NB15_cleaned.zip`.
 | `UNSW_NB15_cleaned.zip` | Final cleaned CSV files ready for modelling. |
 | `Before Capping.png` | Boxplots of numerical features **before** outlier capping. |
 | `After IQR Capping.png` | Boxplots **after** capping – extreme values compressed, rows intact. |
-| `README.md` | This documentation. |
 | `requirements.txt` | Required Python packages. |
 
 > **Note**: The `.ipynb` file may not render correctly on GitHub due to large outputs or interactive components. Please download it locally or use the included `.pdf` for reference.
