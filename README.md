@@ -204,7 +204,7 @@ Four tree-based models were trained:
 | `train_test_split.zip` | Train-test split files |
 | `Graphs/` | All plots (confusion matrix, feature importance, etc.) |
 | `Using Graphviz Library/` | Implementation of *graphviz* library |
-| `README.md` | Documentation |
+| `requirements.txt` | Required Python Packages. |
 
 ---
 
