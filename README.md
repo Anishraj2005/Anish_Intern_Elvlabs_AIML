@@ -6,11 +6,13 @@
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python"/>
 </p>
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5-F7931E?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-orange?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-red?style=for-the-badge&logo=streamlit)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.x-0097A7?style=for-the-badge&logo=google)
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-1.5-F7931E?style=for-the-badge&logo=scikit-learn" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/XGBoost-2.0.3-orange?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Streamlit-1.36.0-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+  <img src="https://img.shields.io/badge/MediaPipe-0.10.x-0097A7?style=for-the-badge&logo=google" alt="MediaPipe">
+</p>
 
 ---
 
