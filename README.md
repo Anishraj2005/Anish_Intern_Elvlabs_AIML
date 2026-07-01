@@ -127,7 +127,7 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 ## 📁 Projects
 
 ### Project 1: Credit Card Fraud Detection
-🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Project-1-Credit-Card-Fraud-Detection)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML-Projects/tree/main/Anish_Intern_Elvlabs_AIML-Project-1-Credit-Card-Fraud-Detection)
 
 **Objective:** Identify fraudulent transactions using anomaly detection and supervised learning.
 
@@ -144,7 +144,7 @@ Welcome! This repository documents my hands-on journey as an AIML Intern at Elev
 ---
 
 ### Project 2: Real-Time ASL Alphabet Recognition
-🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML/tree/Project-2-Real-Time-Sign-Language-Recognition)
+🔗 [View Branch](https://github.com/Anishraj2005/Anish_Intern_Elvlabs_AIML-Projects/tree/main/Anish_Intern_Elvlabs_AIML-Project-2-Real-Time-Sign-Language-Recognition)
 
 **Objective:** Convert hand gestures (A-Z) to text in real-time from webcam feed.
 
